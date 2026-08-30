@@ -7,7 +7,11 @@
       "name": "MyDramaNovel",
       "version": 1,
       "repository": "bluewillow102-create/MyDramaNovel",
-      "path": "mydramanovel.lua"
+      "repo_url": "https://github.com/bluewillow102-create/MyDramaNovel",
+      "branch": "main",
+      "path": "mydramanovel.lua",
+      "raw_url": "https://raw.githubusercontent.com/bluewillow102-create/MyDramaNovel/main/mydramanovel.lua",
+      "homepage": "https://mydramanovel.com/"
     }
   ]
 }
