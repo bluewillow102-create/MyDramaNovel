@@ -6,7 +6,8 @@
       "id": "mydramanovel",
       "name": "MyDramaNovel",
       "version": 1,
-      "file": "mydramanovel.lua"
+      "repository": "bluewillow102-create/MyDramaNovel",
+      "path": "mydramanovel.lua"
     }
   ]
 }
